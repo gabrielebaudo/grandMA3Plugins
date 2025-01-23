@@ -14,4 +14,4 @@ A curated collection of Lua plugins for grandMA3 by MA Lighting, created to enha
 
 ---
 
-Each plugin includes detailed instructions and examples in its respective README file. Contributions are welcome—feel free to explore, use, and improve!
+Each plugin includes detailed instructions and examples in its respective README file. Contributions are welcome, feel free to explore, use, and improve!
